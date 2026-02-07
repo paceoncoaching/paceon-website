@@ -1550,7 +1550,10 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
                     Evidence-driven performance coaching. Built for athletes balancing ambition with life.
                   </div>
                   <div className="mt-4 text-[12px] text-black/55" data-testid="text-footer-legal">
-                    © {new Date().getFullYear()} PaceOn • Privacy Policy • Terms
+                    © {new Date().getFullYear()} PaceOn •{" "}
+                    <a href="/privacy" className="hover:text-black transition-colors underline underline-offset-2" data-testid="link-privacy-policy">Privacy Policy</a>
+                    {" "}•{" "}
+                    <a href="/terms" className="hover:text-black transition-colors underline underline-offset-2" data-testid="link-terms">Terms</a>
                   </div>
                 </div>
 
