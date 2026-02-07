@@ -1,0 +1,246 @@
+Create a clean, modern, minimalist website for "Pace On" - a performance coaching business. The design should be inspired by architecture firm websites with smooth transitions between pages and elements.
+
+=== BRAND SPECIFICATIONS ===
+
+Logo: "Pace On." with "COACHING" underneath
+Primary Font: League Spartan (for "Pace On." logo and headings)
+Secondary Font: Century Gothic (for body text)
+
+Colour Palette:
+- Burnt Orange: #c85103 (accent/CTA colour)
+- Olive Green: #6a714b (secondary accent)
+- Black: #000000 (primary text)
+- Off-White: #f7f4f4 (background/light sections)
+
+=== DESIGN REQUIREMENTS ===
+
+- Clean, spacious layout with generous white space
+- Modern, minimalist aesthetic
+- Smooth page transitions and scroll animations
+- Hover effects on buttons and navigation
+- Responsive design (mobile, tablet, desktop)
+- Subtle parallax effects where appropriate
+- Professional photography placeholders (athletic/training imagery)
+- Smooth fade-ins for content as user scrolls
+
+=== SITE STRUCTURE ===
+
+Navigation Menu:
+1. Welcome (Home)
+2. Our Approach
+3. Who We Are
+4. What We Offer
+5. How We Work
+6. Let's Talk
+
+=== PAGE CONTENT ===
+
+--- WELCOME (HOME PAGE) ---
+
+Hero Section:
+Heading: "Optimised Performance Coaching"
+Subheading: "PaceOn is led by two current elite athletes, our coaching blends evidence-driven training with real world understanding of balancing life, work, and the demands of endurance competition."
+CTA Button: "Start Your Journey" (links to Let's Talk)
+
+Value Propositions (3 cards):
+1. Monthly Coaching
+   "Structured training programmes with regular check-ins, plan adjustments, and messaging support. For athletes seeking expert guidance and accountability."
+
+2. Premium Coaching
+   "Fully personalised programmes with one-on-one calls, detailed analysis, and real-time adjustments. For athletes targeting competitive racing or breakthrough gains."
+
+3. Race Preparation
+   "Targeted programmes for specific events. From strategy sessions to taper planning, we prepare you to perform when it counts."
+
+Footer CTA: "Ready to elevate your performance?" with button to Let's Talk
+
+--- OUR APPROACH ---
+
+Hero: "Performance through process"
+
+Main Content:
+"Our coaching is built on experience, evidence, and honest communication. We leverage data and evidence to create structured, individualised programmes that adapt as you progress. We aim to empower you through education - helping you understand not just what you're doing, but why. Our commitment is to long-term athlete development, delivering consistent, intelligent coaching that compounds into real results over months and years."
+
+Four Pillars (grid layout):
+
+1. Personalised Programming
+   "Training designed specifically for you, accounting for your experience level, physiology, and specific performance goals."
+
+2. Evidence & Experience
+   "Training informed by sports science and refined through years of coaching athletes from first-timers to national-level competitors."
+
+3. Education Focused
+   "Knowledge empowers performance - we educate you on training principles so you execute with intention."
+
+4. Ongoing Support
+   "We're with you for the journey - ongoing dialogue, consistent feedback, and adjustments that keep training aligned with reality."
+
+--- WHO WE ARE ---
+
+Mission Statement:
+"Empower athletes through individualised, evidence-based coaching that builds sustainable, long-term performance."
+
+Our Values:
+
+Integrity
+"Open, honest coaching built on trust and transparency."
+
+Excellence
+"Evidence-based programming refined through years of experience."
+
+Empowerment
+"Knowledge and coaching that enables your long-term growth."
+
+[Include placeholder sections for coach bios with profile images]
+
+--- WHAT WE OFFER ---
+
+Hero: "Coaching Packages"
+
+Standard Coaching
+Price: $180/month
+
+Description:
+"Structured monthly training programmes designed for committed athletes seeking expert guidance and accountability. Standard coaching suits self-motivated athletes who want evidence-based programming with regular oversight but don't require daily interaction or real-time adjustments. Through intelligent periodisation and coaching accountability, you'll achieve consistent progression toward your goals—whether that's completing your first event, setting a new PB, or building a sustainable training foundation that delivers results month after month."
+
+Includes:
+• Personalised Training Plan – Monthly periodised programme tailored to your goals, experience level, and available training time across triathlon, running, or cycling
+• Weekly Plan Adjustments – Regular modifications based on your progress, recovery, and life circumstances to keep training effective and sustainable
+• Email/Platform Communication – Direct access to your coach for questions, feedback, and guidance throughout the month
+• Training Plan Analysis – Regular review of your completed sessions, trends, and progress to inform ongoing programming decisions
+
+CTA: "Get started with Standard coaching"
+
+---
+
+Premium Coaching
+Price: $280/month
+
+Description:
+"Fully personalised training programmes with comprehensive support, detailed analysis, and real-time adjustments for athletes targeting competitive racing or breakthrough performance gains. Premium coaching is designed for athletes pursuing specific competitive goals, significant performance improvements, or those needing comprehensive support to balance demanding training with work and life. Through highly individualised programming, responsive coaching, strategic race preparation, and priority support, you'll achieve maximum performance gains and execute at your highest level consistently."
+
+Includes:
+• Everything in Standard – All the structure, planning, and analysis of our Standard tier, plus;
+• Unlimited Messaging Support – Direct, priority access to your coach whenever you need guidance, feedback, or adjustments
+• Monthly Video Call Reviews – One-on-one video sessions to discuss progress, address challenges, review data, and refine your approach
+• Detailed Session Feedback – In-depth analysis and commentary on key sessions, helping you understand your performance and development
+• Race Strategy Planning – Pre-race preparation including pacing strategies, nutrition plans, mental preparation, and tactical execution guidance
+
+CTA: "Get started with Premium coaching"
+
+---
+
+FAQ Section - Product Related:
+
+Q: Can I switch between Standard and Premium coaching?
+A: Yes, you can upgrade or adjust your coaching tier at any time to suit your changing goals and needs.
+
+Q: What sports do you coach?
+A: We specialise in triathlon, running, and cycling coaching for athletes of all levels.
+
+Q: Do I need to use specific training platforms?
+A: We work with most major training platforms including TrainingPeaks, Final Surge, and others. We'll discuss the best option for you.
+
+Q: How quickly will I see results?
+A: Most athletes begin to see measurable improvements within 8-12 weeks, with significant gains developing over 6-12 months of consistent training.
+
+Q: What if I need to pause my coaching?
+A: Life happens. We offer flexible pausing options - just let us know and we'll work with you.
+
+Q: Is there a minimum commitment period?
+A: We work on a month-to-month basis with no lock-in contracts, though we recommend at least 3-6 months to achieve meaningful performance gains.
+
+--- HOW WE WORK ---
+
+Hero: "Your Journey with Pace On"
+
+Process Steps (timeline/vertical layout):
+
+1. Initial Consultation
+   "We start with a detailed discussion about your goals, experience, available training time, and what you want to achieve."
+
+2. Programme Design
+   "Your coach creates a personalised training programme built specifically for you - accounting for your physiology, lifestyle, and performance targets."
+
+3. Regular Check-ins
+   "Ongoing communication ensures your training stays aligned with your progress, recovery, and life demands."
+
+4. Analysis & Adjustment
+   "We continuously review your training data, provide feedback, and adjust your programme to optimise your development."
+
+5. Race Preparation
+   "When race day approaches, we dial in your strategy, pacing, nutrition, and mental preparation."
+
+6. Long-term Development
+   "Sustainable performance improvements compound over months and years - we're invested in your long-term success."
+
+---
+
+FAQ Section - Coaching Related:
+
+Q: How often will I communicate with my coach?
+A: Standard athletes have regular email/platform access, while Premium athletes have unlimited messaging and monthly video calls.
+
+Q: What happens if I miss sessions or need to adjust my plan?
+A: Real life takes priority. We'll adjust your programme to accommodate illness, work demands, family commitments, or unexpected circumstances.
+
+Q: How do you handle training during injuries?
+A: We work with you to modify training appropriately, communicate with your healthcare providers as needed, and focus on what you can do safely.
+
+Q: Do you provide nutrition guidance?
+A: We provide sport nutrition guidance specific to training and racing. For complex nutritional needs, we can refer you to accredited sports dietitians.
+
+Q: Can you coach me remotely?
+A: Yes, all our coaching is conducted remotely, allowing us to work with athletes anywhere in Australia and internationally.
+
+Q: What experience level do I need?
+A: We coach everyone from complete beginners to national-level competitors. Your programme is designed specifically for your current level and goals.
+
+--- LET'S TALK ---
+
+Hero: "Start Your Journey"
+
+Content:
+"Ready to take your performance to the next level? Whether you're preparing for your first event or chasing competitive goals, we're here to help you achieve sustainable, long-term performance gains."
+
+"Get in touch to discuss your goals and find out which coaching package is right for you."
+
+[EMBED HUBSPOT FORM HERE]
+Note: Include a placeholder div with instructions to embed the HubSpot form code
+
+Alternative Contact:
+Email: [placeholder - insert email]
+Based in: [location if relevant]
+
+=== FOOTER ===
+
+Include on all pages:
+- Pace On logo
+- Navigation links
+- Social media links (placeholders for Instagram, Strava, etc.)
+- Copyright notice
+- Privacy Policy & Terms links (placeholder pages)
+
+=== TECHNICAL SPECIFICATIONS ===
+
+- Use modern CSS for smooth transitions and animations
+- Implement intersection observer for scroll animations
+- Mobile-first responsive design
+- Optimise images and assets for web performance
+- Use semantic HTML5
+- Ensure accessibility standards (ARIA labels, proper heading hierarchy)
+- Smooth scroll behaviour
+- Lazy loading for images
+- Clean, organised CSS (consider using a utility-first approach or BEM methodology)
+
+=== STYLE NOTES ===
+
+- Use Australian English spelling throughout (optimised, personalised, etc.)
+- Maintain professional but approachable tone
+- Generous padding and margins for that architectural, spacious feel
+- Consider using large typography for impact
+- Subtle shadows and depth rather than flat design
+- Button hover states should use the burnt orange (#c85103) colour
+- Navigation should be fixed/sticky with subtle background on scroll
+
+Build this as a single-page application with smooth transitions between sections, or as a multi-page site with smooth page transitions - whichever creates the best user experience.
