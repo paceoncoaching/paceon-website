@@ -1153,7 +1153,7 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
                 Exclusions apply: complete bikes, full groupsets, and service labour.
               </div>
             </div>
-
+{/* TEMPORARILY HIDDEN - MARMION CHIROPRACTIC
             <div className="fade-up grain rounded-3xl border border-black/10 bg-white/70 backdrop-blur p-7 shadow-[var(--shadow-card)]" data-testid="card-benefit-marmion">
               <div className="flex items-start justify-between gap-4">
                 <div>
@@ -1174,7 +1174,7 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
             </div>
           </div>
         </SectionShell>
-
+*/}
         {/* HOW WE WORK */}
         <SectionShell id="work" eyebrow="How We Work" title="Your journey with Pace On." tone="offwhite">
           <div className="grid lg:grid-cols-12 gap-10">
@@ -1464,7 +1464,7 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
                   PaceOn athletes receive exclusive discounts on accessories, apparel, and parts through our partnership with Elite Racing Cycles.
                 </p>
               </div>
-
+{/* TEMPORARILY HIDDEN - MARMION CHIROPRACTIC
               <div className="fade-up grain rounded-3xl border border-black/10 bg-white/70 backdrop-blur p-7 shadow-[var(--shadow-card)]" data-testid="card-partnership-marmion">
                 <div className="flex items-start justify-between gap-4">
                   <div>
@@ -1486,7 +1486,7 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
             </div>
           </div>
         </SectionShell>
-
+*/}
         {/* LET'S TALK */}
         <SectionShell id="talk" eyebrow="Let’s Talk" title="Start your journey." tone="offwhite">
           <div className="grid lg:grid-cols-2 gap-10 items-start">
