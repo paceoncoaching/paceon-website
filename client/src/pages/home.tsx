@@ -358,16 +358,16 @@ export default function Home() {
                 onClick={() => setCoachModal(null)}
                 data-testid="overlay-coach-bio"
               />
-              <div className="absolute inset-0 p-5 sm:p-8 flex items-end sm:items-center justify-center">
+              <div className="absolute inset-0 p-5 sm:p-8 flex items-end sm:items-center justify-center overflow-y-auto">
                 <motion.div
                   initial={{ y: 18, opacity: 0, scale: 0.98 }}
                   animate={{ y: 0, opacity: 1, scale: 1 }}
                   exit={{ y: 10, opacity: 0, scale: 0.99 }}
                   transition={{ duration: 0.28, ease: [0.2, 0.75, 0.2, 1] }}
-                  className="grain w-full max-w-2xl rounded-3xl border border-white/20 bg-white/85 backdrop-blur shadow-[0_30px_90px_-50px_rgba(0,0,0,.75)] overflow-hidden"
+                  className="grain w-full max-w-2xl rounded-3xl border border-white/20 bg-white/85 backdrop-blur shadow-[0_30px_90px_-50px_rgba(0,0,0,.75)] overflow-hidden my-auto"
                   data-testid="card-coach-bio"
                 >
-                  <div className="p-6 sm:p-7">
+                  <div className="p-6 sm:p-7 max-h-[85vh] overflow-y-auto">
                     <div className="flex items-start justify-between gap-4">
                       <div>
                         <div className="text-[12px] uppercase tracking-[0.28em] text-[hsl(var(--secondary))]" data-testid="text-coach-modal-label">
