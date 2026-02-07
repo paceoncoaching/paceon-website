@@ -1172,9 +1172,10 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
                 Dr. Stephen Greensmith, a talented endurance athlete himself, understands what it takes to connect you to your full potential, injury-free. PaceOn athletes get an exclusive 10% discount on chiropractic and remedial massage services.
               </p>
             </div>
+            */}
           </div>
         </SectionShell>
-*/}
+
         {/* HOW WE WORK */}
         <SectionShell id="work" eyebrow="How We Work" title="Your journey with Pace On." tone="offwhite">
           <div className="grid lg:grid-cols-12 gap-10">
@@ -1483,10 +1484,11 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
                   Dr. Stephen Greensmith understands what it takes to keep endurance athletes performing at their best. PaceOn athletes enjoy exclusive discounts on chiropractic and remedial massage.
                 </p>
               </div>
+              */}
             </div>
           </div>
         </SectionShell>
-*/}
+
         {/* LET'S TALK */}
         <SectionShell id="talk" eyebrow="Let’s Talk" title="Start your journey." tone="offwhite">
           <div className="grid lg:grid-cols-2 gap-10 items-start">
