@@ -1377,7 +1377,7 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
               Hear from athletes we work with and the partners who support our community.
             </p>
           </div>
-
+          {/* TEMPORARILY HIDDEN - ATHLETE TESTIMONIALS
           <div className="mt-8">
             <div className="text-[12px] uppercase tracking-[0.28em] text-[hsl(var(--secondary))]" data-testid="text-testimonials-eyebrow">
               Athlete Testimonials
@@ -1418,7 +1418,7 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
               ))}
             </div>
           </div>
-
+*/}
           <div className="mt-14">
             <div className="text-[12px] uppercase tracking-[0.28em] text-[hsl(var(--secondary))]" data-testid="text-partnerships-eyebrow">
               Partnerships
