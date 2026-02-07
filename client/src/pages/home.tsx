@@ -1521,8 +1521,15 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
             </div>
 
             <div className="mt-5 rounded-2xl border border-black/10 bg-[hsl(var(--background))] p-5" data-testid="hubspot-form">
-              <div id="hubspot-form-target" data-testid="embed-hubspot-form" />
-            </div>
+  <div 
+    dangerouslySetInnerHTML={{
+      __html: `
+        <script src="https://js-ap1.hsforms.net/forms/embed/442585000.js" defer></script>
+        <div class="hs-form-frame" data-region="ap1" data-form-id="1c9f1023-c5a3-40a6-a7ae-0b3ad40cffb8" data-portal-id="442585000"></div>
+      `
+    }}
+  />
+</div>
           </div>
 
           {/* Footer */}
