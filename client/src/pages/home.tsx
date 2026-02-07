@@ -1569,36 +1569,24 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
                   </div>
                 </div>
 
-<div className="md:col-span-3">
-  <div className="text-[12px] uppercase tracking-[0.28em] text-[hsl(var(--secondary))]" data-testid="text-footer-social-eyebrow">
-    Social
-  </div>
-  <div className="mt-3 grid gap-2">
-    {[
-      { label: "Instagram", id: "instagram", icon: Instagram, url: "https://www.instagram.com/paceoncoaching/" },
-      { label: "Facebook", id: "facebook", icon: Facebook, url: "https://www.facebook.com/paceoncoaching" },
-      { label: "Strava", id: "strava", icon: Activity, url: "https://www.strava.com/clubs/paceon" },
-    ].map((s) => {
-      const Icon = s.icon;
-      return (
-        
-          key={s.id}
-          href={s.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center justify-between rounded-2xl border border-black/10 bg-white/60 backdrop-blur px-4 py-3 text-[13px] text-black/70 hover:bg-white transition-colors"
-          data-testid={`link-social-${s.id}`}
-        >
-          <span className="inline-flex items-center gap-2">
-            <Icon className="h-4 w-4 text-[hsl(var(--secondary))]" strokeWidth={2.2} aria-hidden="true" />
-            <span>{s.label}</span>
-          </span>
-          <ArrowRight className="h-4 w-4 text-black/40" />
-        </a>
-      );
-    })}
-  </div>
-</div>
+                <div className="md:col-span-3">
+                  <div className="text-[12px] uppercase tracking-[0.28em] text-[hsl(var(--secondary))]" data-testid="text-footer-social-eyebrow">
+                    Social
+                  </div>
+                  <div className="mt-3 grid gap-2">
+                    {[
+                      { label: "Instagram", id: "instagram", icon: Instagram, url: "https://www.instagram.com/paceoncoaching/" },
+                      { label: "Facebook", id: "facebook", icon: Facebook, url: "https://www.facebook.com/paceoncoaching" },
+                      { label: "Strava", id: "strava", icon: Activity, url: "https://www.strava.com/clubs/paceon" },
+                    ].map((s) => {
+                      const Icon = s.icon;
+                      return (
+                        <a
+                          key={s.id}
+                          href="#"
+                          className="inline-flex items-center justify-between rounded-2xl border border-black/10 bg-white/60 backdrop-blur px-4 py-3 text-[13px] text-black/70 hover:bg-white transition-colors"
+                          data-testid={`link-social-${s.id}`}
+                        >
                           <span className="inline-flex items-center gap-2">
                             <Icon className="h-4 w-4 text-[hsl(var(--secondary))]" strokeWidth={2.2} aria-hidden="true" />
                             <span>{s.label}</span>
