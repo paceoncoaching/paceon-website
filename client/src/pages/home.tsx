@@ -1583,7 +1583,9 @@ Over 5+ years, I've coached everyone from first-timers to elite-level athletes a
                       return (
                         <a
                           key={s.id}
-                          href="#"
+                          href={s.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
                           className="inline-flex items-center justify-between rounded-2xl border border-black/10 bg-white/60 backdrop-blur px-4 py-3 text-[13px] text-black/70 hover:bg-white transition-colors"
                           data-testid={`link-social-${s.id}`}
                         >
